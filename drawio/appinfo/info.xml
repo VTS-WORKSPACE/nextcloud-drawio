@@ -8,6 +8,7 @@
     <version>1.0.2</version>
     <licence>agpl</licence>
     <author>Paweł Rojek</author>
+    <author>Build by VTS</author>
     <namespace>Drawio</namespace>
     <types>
         <filesystem />
